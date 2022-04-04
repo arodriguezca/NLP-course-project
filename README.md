@@ -1,4 +1,6 @@
-# NLP-dataset
+# NLP course project - CS 7650
+
+Repo for course project of CS 7650: Natural Language Processing at Georgia Tech.
 
 Obtain saved models from link:
 https://drive.google.com/drive/folders/15Qr_7IBNFGurOIq-aya5ZyTdP3dS8Lc7?usp=sharing
